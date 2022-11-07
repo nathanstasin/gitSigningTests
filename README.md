@@ -1,2 +1,2 @@
 # gitSigningTests
-d test
+d test signed unsigned
