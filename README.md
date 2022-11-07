@@ -1,2 +1,2 @@
 # gitSigningTests
-d
+d test
